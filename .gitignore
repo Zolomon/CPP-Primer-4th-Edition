@@ -1,1 +1,3 @@
-/src/01/a.out
+## generic files to ignore
+*.DS_Store
+a.out
