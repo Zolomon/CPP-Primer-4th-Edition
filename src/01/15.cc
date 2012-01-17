@@ -28,6 +28,8 @@ int main()
 
   // I predict that sum == upper, since the for will run at least once due to 
   // the condition "val <= upper".
+ 
+  // And I was right.
   
   return 0;
 }
