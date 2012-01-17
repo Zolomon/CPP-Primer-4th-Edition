@@ -6,6 +6,7 @@ int main()
   std::cout << "*/";
   //std::cout << /* "*/" */;
   std::cout << /* "*/ "this works at least" /* */ << std::endl;
+  
   /*
   *  ☁  01 [master] rm a.out;g++ 08.cc && ./a.out
   * rm: a.out: No such file or directory
