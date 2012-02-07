@@ -1,0 +1,7 @@
+/*
+
+The public section of a class specifies which operations and attributes that will be visible to other objects that use this class. 
+
+The private section of a class specifies which operations and attributes that will be hidden to other objects that use this class. 
+
+*/
